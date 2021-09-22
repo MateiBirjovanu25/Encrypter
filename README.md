@@ -15,7 +15,7 @@ An application designed to encode and decode text and files using a variety of a
 
 #### A tool that lets you encode/decode TEXT using some classic algorithms + my own implementation
 
-<a href="https://gifyu.com/image/P0Ce"><img src="https://s9.gifyu.com/images/2021-09-23-02-16-52.gif" alt="2021-09-23-02-16-52.gif" border="0" /></a>
+<a href="https://gifyu.com/image/P0FI"><img src="https://s9.gifyu.com/images/2021-09-23-02-16-523124656b299e56cb.gif" alt="2021-09-23-02-16-523124656b299e56cb.gif" border="0" /></a>
 <br>
 
 # -----------------------------------------------------------------
@@ -32,6 +32,8 @@ An application designed to encode and decode text and files using a variety of a
 <br>
 
 ### Key/Password generator
+
+#### A tool that generates random keys/passwords that contain all the checked characters
 
 <a href="https://gifyu.com/image/P0Fm"><img src="https://s9.gifyu.com/images/2021-09-23-02-21-09.gif" alt="2021-09-23-02-21-09.gif" border="0" /></a>
 
