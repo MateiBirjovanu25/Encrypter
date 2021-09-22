@@ -13,6 +13,22 @@ An application designed to encode and decode text and files using a variety of a
 
 ### Text Encoder
 
-<a href="https://gifyu.com/image/P0CJ"><img src="https://s9.gifyu.com/images/2021-09-23-02-13-38.gif" alt="2021-09-23-02-13-38.gif" border="0" /></a>
+<a href="https://gifyu.com/image/P0Ce"><img src="https://s9.gifyu.com/images/2021-09-23-02-16-52.gif" alt="2021-09-23-02-16-52.gif" border="0" /></a>
+<br>
+
+# -----------------------------------------------------------------
+<br>
+
+### File Encoder
+
+<a href="https://gifyu.com/image/P0FS"><img src="https://s9.gifyu.com/images/2021-09-23-02-18-41.gif" alt="2021-09-23-02-18-41.gif" border="0" /></a>
+<br>
+
+# -----------------------------------------------------------------
+<br>
+
+### Key/Password generator
+
+<a href="https://gifyu.com/image/P0Fm"><img src="https://s9.gifyu.com/images/2021-09-23-02-21-09.gif" alt="2021-09-23-02-21-09.gif" border="0" /></a>
 
 
