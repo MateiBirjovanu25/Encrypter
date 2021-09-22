@@ -13,6 +13,8 @@ An application designed to encode and decode text and files using a variety of a
 
 ### Text Encoder
 
+#### A tool that lets you encode/decode TEXT using some classic algorithms + my own implementation
+
 <a href="https://gifyu.com/image/P0Ce"><img src="https://s9.gifyu.com/images/2021-09-23-02-16-52.gif" alt="2021-09-23-02-16-52.gif" border="0" /></a>
 <br>
 
@@ -20,6 +22,8 @@ An application designed to encode and decode text and files using a variety of a
 <br>
 
 ### File Encoder
+
+#### A tool that lets you encrypt/decrypt FILES using some classic algorithms + my own implementation
 
 <a href="https://gifyu.com/image/P0FS"><img src="https://s9.gifyu.com/images/2021-09-23-02-18-41.gif" alt="2021-09-23-02-18-41.gif" border="0" /></a>
 <br>
